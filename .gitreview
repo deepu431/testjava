@@ -1,0 +1,7 @@
+[gerrit]
+host=review.gerrithub.io
+port=29418
+project=deepu431/testjava
+defaultbranch=master
+
+
