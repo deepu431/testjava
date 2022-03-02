@@ -13,4 +13,6 @@ cherry-pick
 
 test
 
+tag 1.2
+
 tag 2.1
